@@ -1,0 +1,19 @@
+body{
+  background-color: gainsboro;
+}
+a{
+  color: blue;
+text-decoration:none;
+cursor: text;
+}
+a:visited { color: red; }     /* Visited links */
+a:hover { color: blue; }  /* Hovered links */
+a:hover{
+  font-size: 20px;
+ transition: 2s;
+}
+
+table{
+  background-color: green;
+  border-radius: 20;
+}
